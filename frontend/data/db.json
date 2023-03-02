@@ -1,0 +1,29 @@
+{
+  "emails": [
+    {
+      "id": 1,
+      "subject": "Email 1",
+      "message": "The Message of Email 1"
+    },
+    {
+      "id": 2,
+      "subject": "Email 2",
+      "message": "The Message of Email 2"
+    },
+    {
+      "id": 3,
+      "subject": "Email 3",
+      "message": "The Message of Email 3"
+    },
+    {
+      "subject": "Email 4",
+      "message": "The Message of Email 4",
+      "id": 4
+    },
+    {
+      "subject": "Email 5",
+      "message": "The Message Of Email 5",
+      "id": 5
+    }
+  ]
+}
